@@ -8,7 +8,7 @@ http://www.mulesoft.org/schema/mule/db http://www.mulesoft.org/schema/mule/db/cu
 	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="e1b29f1f-c858-4d03-9663-a12484170335" >
 		<http:listener-connection host="0.0.0.0" port="8081" />
 	</http:listener-config>
-	<http:listener-config name="HTTP_Listener_config1" doc:name="HTTP Listener config" doc:id="a7391f30-b0ff-4c7b-8c7b-8fd301aaaa3a" >
+	<http:listener-config name="HTTP_Listener_config1" doc:name="HTTP Listener1 config" doc:id="a7391f30-b0ff-4c7b-8c7b-8fd301aaaa3a" >
 		<http:listener-connection host="0.0.0.0" port="8082" />
 	</http:listener-config>
 	<http:listener-config name="HTTP_Listener_config2" doc:name="HTTP Listener config" doc:id="f8c7d7de-216a-47dd-b53e-6635c7d6ffa3" >
